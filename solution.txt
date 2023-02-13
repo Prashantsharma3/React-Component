@@ -1,0 +1,6 @@
+heyy 
+you should install react DOm and react scripts 
+use this command 
+1-open a new terminal 
+2- enter this command :
+npm install --save react react-dom react-scripts
